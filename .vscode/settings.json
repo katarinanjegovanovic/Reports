@@ -1,0 +1,9 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": ["${CodeCop}","${UICop}"],
+    "al.ruleSetPath": ".vscode/dr.ruleset.json",
+
+    "CRS.ObjectNameSuffix": " REP",
+    //"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    //"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al"
+}

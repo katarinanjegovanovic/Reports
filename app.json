@@ -1,0 +1,42 @@
+{
+  "id": "71f5aa3a-d446-4f6b-b32a-600d9a223b95",
+  "name": "Reports",
+  "publisher": "GoPro doo",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./img/icon.png",
+  "dependencies": [
+    {
+      "id": "07075b7d-f910-41f0-9e7e-218ea5085b15",
+      "name": "Serbian Localization",
+      "publisher": "GoPro doo",
+      "version": "20.0.6.0"},
+      {
+        "id": "23e6bfda-5c3d-4ecb-94e6-305cf248a73a",
+        "name": "Purchase Process Marlo",
+        "publisher": "GoPro doo",
+        "version": "1.0.0.0"
+      }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50501,
+      "to": 50550
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "target": "Cloud"
+}
